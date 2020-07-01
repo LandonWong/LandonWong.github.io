@@ -1,7 +1,7 @@
 ```bio-meta
 {
-    "name": "J. Doe",
-    "title": "J. Doe | Curriculum Vitae",
+    "name": "Songyue Wang",
+    "title": "Songyue Wang | Academic Homepage",
     "description": "J. Doe&#8217;s curriculum vitae.",
     "url": "https://GeeLaw.github.io/bio-site/",
     "assets": "https://GeeLaw.github.io/bio-site/assets",
@@ -11,77 +11,129 @@
 }
 ```
 
-# J.&nbsp;Doe
+# Songyue Wang (王嵩岳)
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of J. Doe" width="160" height="160" style="max-width: 160px;" /></figure>
 
-I’m a second-year Ph.D. student in unknown discipline, advised by [unknown professor](https://example.com/). I am interested in some unknown specialized sub-area.
+I’m a first-year Master student in computer architecture, advised by [Prof. Mingyu Chen](https://acs.ict.ac.cn/cmy/). I am interested in microarchitecture and FPGA hardware acceleration. 
 
 Prior to joining [unknown current university](https://example.com/), I obtained my bachelor’s degree from [unknown previous university](https://example.com/).
 
-I can be reached at <span id="_eml" class="gl-eml">someone at example dot com</span>.
+## Experiences
 
-```bio-remove
-Below we use a simple mechanism to mitigate email address reaping.
-Change the encoding for your own email address.
+```blog-bib
+@misc{master,
+  author = {Master in Computer Architecture. \emph{August 2022 - June 2024 (Est.)}},
+  title = {Institute of Computing Technology, Chinese Academic of Sciences (ICT, CAS)}
+}
+
+@misc{undergraduate,
+  author = {B.S. in Computer Science. \emph{September 2018 - June 2022}},
+  title = {University of Chinese Academy of Sciences (UCAS)}
+}
+
+@misc{intern_bytedance,
+  author = {Intern. Data System Laboratory. \emph{November 2021 - Feburary 2023}},
+  title = {ByteDance Inc.},
+}
 ```
 
-<!--[bio][protect]
-<script type="application/javascript">
-window.setTimeout(function ()
-{
-var addr = [115,111,109,101,111,110,101,64,101,120,97,109,112,108,101,46,99,111,109];
-addr = String.fromCharCode.apply(String, addr);
-var eml = document.getElementById('_eml');
-eml.innerHTML = '<a href="mailto:' + addr + '">' + addr + '</a>';
-eml.removeAttribute('class');
-}, 600);
-</script>
-[bio]-->
+## Publications
 
-This is an example personal homepage built with [bio-site](https://github.com/GeeLaw/bio-site). It features simplicity and integration with BibTeX.
-
-## Building Blocks
+### 2022
 
 ```blog-bib
 
-@comment
-{
-Use #bibitem_Venue_Key to refer to "Venue:Key".
+@online{fpl2022,
+  author = {Zelin Wang and Ke Zhang and Yisong Chang and Yanlong Yin and Yuxiao Chen and Ran Zhao and \emph{Songyue Wang} and Mingyu Chen and Yungang Bao},
+  title = {SERVE: Agile Hardware Development Platform with Cloud IDE and Cloud FPGAs},
 
-It is possible to have multiple BibTeX blocks, which will be rendered independently. For example, you might want to have one block for each of "Publications", "Pre-prints", and "Manuscripts".
-
-To support more information links (e.g., add "slides" or "pdf" links),
-see "builder/marked.0.3.6/bibtex-service.js" line 109.
+  biosite_venue = {32nd International Conference on Field Programmable Logic and Application (FPL 2022)},
+  biosite_paper = {./assets/artifacts/papers/2022_fpl.pdf}
 }
 
-@online{GitHub:BibTeXTS,
-  author = {Ji Luo},
-  title = {{B}ib{T}e{X}-{TS}:
-    General-Purpose Format-Preserving {{\BibTeX}} Parser
-    in {T}ype{S}cript ({J}ava{S}cript)},
+@online{carrv2022,
+  author = {\emph{Songyue Wang} and Luming Wang and Tianyue Lu and Mingyu Chen },
+  title = {Architecture and RISC-V ISA Extension Supporting Asynchronous and Flexible Parallel Far Memory Access},
 
-  biosite_url = {https://github.com/GeeLaw/bibtex-ts},
-  biosite_venue = {GitHub},
-  biosite_slides = {#},
+  biosite_venue = {Sixth Workshop on Computer Architecture Research with RISC-V (CARRV 2022), co-located with ISCA'22},
+  biosite_paper = {https://carrv.github.io/2022/papers/CARRV2022_paper_9_Wang.pdf},
+  biosite_slide = {https://carrv.github.io/2022/slides/CARRV2022_slides_9_Wang.pdf},
+  biosite_video = {https://drive.google.com/file/d/1TGyncHlRwcjiVWpHuKG6PwrwdWg_1N3d/view?usp=share_link},
 }
 
-@online{GitHub:Marked,
-  author = {Christopher Jeffrey and others},
-  title = {Marked: A {M}arkdown Parser and Compiler Built for Speed},
+```
 
-  biosite_url = {https://github.com/markedjs/marked},
-  biosite_venue = {GitHub},
-  biosite_demo = {https://marked.js.org/demo/},
+## Research 
+
+### Ongoing Projects
+
+```blog-bib
+@misc{Example1,
+  author = {First Author and Second Author},
+  title = {Title without Equation}
 }
 
-@online{GitHub:KaTeX,
-  author = {Khan Academy and others},
-  title = "{{\KaTeX}}: Fast Math Typesetting for the Web",
-
-  biosite_url = {https://github.com/KaTeX/KaTeX},
-  biosite_venue = {GitHub},
-  biosite_demo = {https://katex.org/},
+@misc{Example2,
+  author = {Author One and Author Two and Author Three},
+  title = {Title with Equation $e^{i\pi}+1=0$}
 }
 
+@misc{Example3,
+  author = {Sole Author},
+  title = {Title with Annotated Equation $e^{i\pi}+1=0$},
+  biosite_arialabel = {Title with Annotated Equation e to the i times pi plus one equals zero}
+}
+
+@misc{Example4,
+  author = {Alice and Bob and Eve and Mallory and others},
+  title = {Link without Equation},
+  biosite_url = {#}
+}
+
+@misc{Example5,
+  author = {Sailor{ }Moon and Tuxedo{ }Mask},
+  title = {Link with Equation $e^{i\pi}+1=0$},
+  biosite_url = {#}
+}
+
+@misc{Example6,
+  author = {Youma and Cardian and Droid and Daimon and Lemures and Phage},
+  title = {Link with Annotated Equation $e^{i\pi}+1=0$},
+  biosite_url = {#},
+  biosite_arialabel = {Link with Annotated Equation e to the i times pi plus one equals zero}
+}
+```
+
+
+### Archived Projects
+
+
+## Honors and Awards
+
+```blog-bib
+@misc{award_5,
+  author = {UCAS and ICT CAS. 2022},
+  title = {Excellent Undergraduation Thesis (top 2\%)}
+}
+
+@misc{award_4,
+  author = {2022},
+  title = {2nd Award of Dream Cup Chinese Youth IC Technology Competition: Design and performance optimization of open-source CPU Track}
+}
+
+@misc{award_3,
+  author = {ICT CAS. 2021},
+  title = {Outstanding Guest Student},
+}
+
+@misc{award_2,
+  author = {Co-organized by Loongson Co Ltd. and Xilinx Inc.. 2021},
+  title = {3rd Award of 5th National Student Computer System Capability Challenge: CPU Design Track (Loongson Cup)},
+}
+
+@misc{award_1,
+  author = {UCAS. 2019 and 2020 and 2021},
+  title = {Outstanding Student and 2nd Academic Scholarship},
+}
 ```

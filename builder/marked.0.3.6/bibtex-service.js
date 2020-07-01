@@ -45,7 +45,7 @@ function RenderTitle(entry, result)
     }
     else if (hasLabel)
     {
-        result.push(' role="math"');
+        result.push(' role="img"');
     }
     result.push(hasLabel ? '><span aria-hidden="true">' : '>',
         titlehtml, hasLabel ? '</span></a></div>\n' : '</a></div>\n');
@@ -113,6 +113,34 @@ const InfoLinks = [
     href1html: 'https://arxiv.org/abs/',
     href2html: '',
     arialabel: 'archive'
+},
+{
+    field: 'paper',
+    name: 'Paper',
+    href1html: '',
+    href2html: '',
+    arialabel: 'paper'
+},
+{
+    field: 'slide',
+    name: 'Slide',
+    href1html: '',
+    href2html: '',
+    arialabel: 'slide'
+},
+{
+    field: 'video',
+    name: 'Video',
+    href1html: '',
+    href2html: '',
+    arialabel: 'video'
+},
+{
+    field: 'code',
+    name: 'Source Code',
+    href1html: '',
+    href2html: '',
+    arialabel: 'Source Code'
 },
 {
     field: 'eprint',
