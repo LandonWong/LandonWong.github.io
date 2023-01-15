@@ -123,7 +123,7 @@ Songyue Wang is a first-year master student in computer architecture, advised by
 }
 ```
 
-## Teaching Services
+## Teaching Assistant (TA) Services
 
 ```blog-bib
 @misc{ta_os,
