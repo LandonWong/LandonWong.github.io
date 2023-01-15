@@ -13,11 +13,9 @@
 
 # Songyue Wang (王嵩岳)
 
-<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of J. Doe" width="160" height="160" style="max-width: 160px;" /></figure>
+<!-- <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of J. Doe" width="160" height="160" style="max-width: 160px;" /></figure> -->
 
-I’m a first-year Master student in computer architecture, advised by [Prof. Mingyu Chen](https://acs.ict.ac.cn/cmy/). I am interested in microarchitecture and FPGA hardware acceleration. 
-
-Prior to joining [unknown current university](https://example.com/), I obtained my bachelor’s degree from [unknown previous university](https://example.com/).
+I’m a first-year Master student in computer architecture, advised by [Prof. Mingyu Chen](https://asg.ict.ac.cn/cmy/). I am interested in microarchitecture and FPGA hardware acceleration. 
 
 ## Experiences
 
@@ -27,15 +25,21 @@ Prior to joining [unknown current university](https://example.com/), I obtained 
   title = {Institute of Computing Technology, Chinese Academic of Sciences (ICT, CAS)}
 }
 
+@misc{intern_bytedance,
+  author = {Intern. Data System Laboratory. \emph{Feburary 2022 - Feburary 2023}},
+  title = {ByteDance Inc.},
+}
+
+@misc{intern_msra,
+  author = {Intern. System & Network Research Group. \emph{December 2021 - Feburary 2022}},
+  title = {Microsoft Research Asia (MSRA)},
+}
+
 @misc{undergraduate,
   author = {B.S. in Computer Science. \emph{September 2018 - June 2022}},
   title = {University of Chinese Academy of Sciences (UCAS)}
 }
 
-@misc{intern_bytedance,
-  author = {Intern. Data System Laboratory. \emph{November 2021 - Feburary 2023}},
-  title = {ByteDance Inc.},
-}
 ```
 
 ## Publications
@@ -79,29 +83,10 @@ Prior to joining [unknown current university](https://example.com/), I obtained 
   title = {Title with Equation $e^{i\pi}+1=0$}
 }
 
-@misc{Example3,
-  author = {Sole Author},
-  title = {Title with Annotated Equation $e^{i\pi}+1=0$},
-  biosite_arialabel = {Title with Annotated Equation e to the i times pi plus one equals zero}
-}
-
 @misc{Example4,
   author = {Alice and Bob and Eve and Mallory and others},
   title = {Link without Equation},
   biosite_url = {#}
-}
-
-@misc{Example5,
-  author = {Sailor{ }Moon and Tuxedo{ }Mask},
-  title = {Link with Equation $e^{i\pi}+1=0$},
-  biosite_url = {#}
-}
-
-@misc{Example6,
-  author = {Youma and Cardian and Droid and Daimon and Lemures and Phage},
-  title = {Link with Annotated Equation $e^{i\pi}+1=0$},
-  biosite_url = {#},
-  biosite_arialabel = {Link with Annotated Equation e to the i times pi plus one equals zero}
 }
 ```
 
