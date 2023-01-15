@@ -13,7 +13,7 @@
 
 # Songyue Wang (王嵩岳)
 
-<!-- <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of J. Doe" width="160" height="160" style="max-width: 160px;" /></figure> -->
+<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/avatar.jpg" alt="A photo of Songyue Wang" width="160" height="160" style="max-width: 160px;" /></figure>
 
 I’m a first-year Master student in computer architecture, advised by [Prof. Mingyu Chen](https://asg.ict.ac.cn/cmy/). I am interested in microarchitecture and FPGA hardware acceleration. 
 
