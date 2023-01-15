@@ -21,7 +21,7 @@ I’m a first-year Master student in computer architecture, advised by [Prof. Mi
 
 ```blog-bib
 @misc{master,
-  author = {Master in Computer Architecture. \emph{August 2022 - June 2024 (Est.)}},
+  author = {Master in Computer Architecture. \emph{August 2022 - June 2024 (Est.)}\\Guest Student. \emph{August 2020 - June 2022}},
   title = {Institute of Computing Technology, Chinese Academic of Sciences (ICT, CAS)}
 }
 
