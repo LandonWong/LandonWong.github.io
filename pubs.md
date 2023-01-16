@@ -18,16 +18,10 @@ Here are all Songyue Wang's publications sorted by year and field. You can also 
 ## Talk
 ```blog-bib
 @online{carrv2022,
-  author = {\emph{Songyue Wang} and Luming Wang and Tianyue Lu and Mingyu Chen },
-  title = {Architecture and RISC-V ISA Extension Supporting Asynchronous and Flexible Parallel Far Memory Access},
-
-  biosite_venue = {Sixth Workshop on Computer Architecture Research with RISC-V (CARRV 2022), co-located with ISCA'22},
-  biosite_paper = {https://carrv.github.io/2022/papers/CARRV2022_paper_9_Wang.pdf},
-  biosite_slide = {https://carrv.github.io/2022/slides/CARRV2022_slides_9_Wang.pdf},
-  biosite_video = {https://drive.google.com/file/d/1TGyncHlRwcjiVWpHuKG6PwrwdWg_1N3d/view?usp=share_link},
-  biosite_url = {https://carrv.github.io/2022/}
+ title = {At the Sixth Workshop on Computer Architecture Research with RISC-V (CARRV 2022), co-located with ISCA'22},
+ biosite_venue = {New York, NY, USA | June 2022},
+ biosite_url = {https://drive.google.com/file/d/1TGyncHlRwcjiVWpHuKG6PwrwdWg_1N3d/view?usp=share_link}
 }
-
 ```
 
 ## Sort By Field
