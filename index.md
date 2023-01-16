@@ -70,6 +70,8 @@ Songyue Wang is a first-year master student major in computer architecture, advi
 
 ```
 
+See all by field [here](./pubs.html).
+
 ## Research 
 
 ### Ongoing Projects
@@ -85,7 +87,6 @@ Songyue Wang is a first-year master student major in computer architecture, advi
   title = {Binary Workload Feature Extraction For RISC-V}
 }
 ```
-See all by field [here](./pubs.html).
 
 ### Archived Projects
 
