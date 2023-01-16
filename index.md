@@ -2,11 +2,11 @@
 {
     "name": "Songyue Wang",
     "title": "Songyue Wang | Academic Homepage",
-    "description": "J. Doe&#8217;s curriculum vitae.",
-    "url": "https://GeeLaw.github.io/bio-site/",
-    "assets": "https://GeeLaw.github.io/bio-site/assets",
-    "date-created": "2020-04-21",
-    "repo": "https://github.com/GeeLaw/bio-site",
+    "description": "Songyue Wang's Academic Homepage",
+    "url": "https://landon.wang/",
+    "assets": "https://landon.wang/assets",
+    "date-created": "2023-1-15",
+    "repo": "https://github.com/LandonWong/LandonWong.github.io",
     "tilecolor": "#f2f2f2"
 }
 ```
@@ -15,7 +15,7 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/avatar.jpg" alt="A photo of Songyue Wang" width="160" height="160" style="max-width: 160px;" /></figure>
 
-Songyue Wang is a first-year master student in computer architecture, advised by [Prof. Mingyu Chen](https://asg.ict.ac.cn/cmy/). He is interested in microarchitecture design and FPGA hardware acceleration. 
+Songyue Wang is a first-year master student major in computer architecture, advised by [Prof. Mingyu Chen](https://asg.ict.ac.cn/cmy/). His research interests are microarchitecture design (esp. on RISC-V) and FPGA hardware acceleration. 
 
 ## Experiences
 
