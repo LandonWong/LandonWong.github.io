@@ -76,25 +76,24 @@ Songyue Wang is a first-year master student in computer architecture, advised by
 
 ```blog-bib
 @misc{Example1,
-  author = {First Author and Second Author},
-  title = {Title without Equation}
+  author = {Ongoing},
+  title = {Asynchronous Memory Access For General Purpose Processors}
 }
 
 @misc{Example2,
-  author = {Author One and Author Two and Author Three},
-  title = {Title with Equation $e^{i\pi}+1=0$}
-}
-
-@misc{Example4,
-  author = {Alice and Bob and Eve and Mallory and others},
-  title = {Link without Equation},
-  biosite_url = {#}
+  author = {Ongoing},
+  title = {Binary Workload Feature Extraction For RISC-V}
 }
 ```
 
-
 ### Archived Projects
 
+```blog-bib
+@misc{Example3,
+  author = {Archived},
+  title = {SERVE: An Agile Hardware Design and Evaluate Platform Based on CI/CD and Cloud FPGAs for Education}
+}
+```
 
 ## Honors and Awards
 
@@ -103,6 +102,7 @@ Songyue Wang is a first-year master student in computer architecture, advised by
   author = {UCAS and ICT CAS. 2022},
   title = {Excellent Undergraduation Thesis (top 2\%)}
 }
+
 
 @misc{award_4,
   author = {2022},
