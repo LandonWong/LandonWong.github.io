@@ -19,7 +19,7 @@ Here are all Songyue Wang's publications sorted by year and field. You can also 
 ```blog-bib
 @online{carrv2022,
  title = {At the Sixth Workshop on Computer Architecture Research with RISC-V (CARRV 2022), co-located with ISCA'22},
- biosite_venue = {New York, NY, USA | June 2022},
+ author = {New York. NY. USA | June 2022},
  biosite_url = {https://drive.google.com/file/d/1TGyncHlRwcjiVWpHuKG6PwrwdWg_1N3d/view?usp=share_link}
 }
 ```
