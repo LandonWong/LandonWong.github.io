@@ -52,7 +52,8 @@ Songyue Wang is a first-year master student in computer architecture, advised by
   author = {Zelin Wang and Ke Zhang and Yisong Chang and Yanlong Yin and Yuxiao Chen and Ran Zhao and \emph{Songyue Wang} and Mingyu Chen and Yungang Bao},
   title = {SERVE: Agile Hardware Development Platform with Cloud IDE and Cloud FPGAs (Demo)},
 
-  biosite_venue = {<a href="https://2022.fpl.org/agenda/">32nd International Conference on Field Programmable Logic and Application (FPL 2022)</a>},
+  biosite_venue = {32nd International Conference on Field Programmable Logic and Application (FPL 2022)},
+  biosite_url = {https://2022.fpl.org/agenda/},
   biosite_paper = {./assets/artifacts/papers/2022_fpl.pdf}
 }
 
@@ -64,6 +65,7 @@ Songyue Wang is a first-year master student in computer architecture, advised by
   biosite_paper = {https://carrv.github.io/2022/papers/CARRV2022_paper_9_Wang.pdf},
   biosite_slide = {https://carrv.github.io/2022/slides/CARRV2022_slides_9_Wang.pdf},
   biosite_video = {https://drive.google.com/file/d/1TGyncHlRwcjiVWpHuKG6PwrwdWg_1N3d/view?usp=share_link},
+  biosite_url = {https://carrv.github.io/2022/}
 }
 
 ```
