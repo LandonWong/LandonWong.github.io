@@ -53,7 +53,7 @@ Songyue Wang is a first-year master student major in computer architecture, advi
   author = {\emph{Songyue Wang} and Luming Wang and Tianyue Lu and Mingyu Chen},
   title = {AMACC: Asynchronous Memory Access Accelerator for RISC-V Embedded Soft Processors (Poster)},
 
-  biosite_venue = {Proceedings of the 60th ACM/IEEE Design Automation Conference (DAC 2023) (accepted)},
+  biosite_venue = {60th ACM/IEEE Design Automation Conference (DAC 2023) (accepted)},
   biosite_paper = {}
 }
 
@@ -85,7 +85,7 @@ Songyue Wang is a first-year master student major in computer architecture, advi
 
 ```
 
-See all by field [here](./pubs.html).
+<!-- See all by field [here](./pubs.html). -->
 
 ## Research 
 
