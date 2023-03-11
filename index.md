@@ -69,7 +69,7 @@ Songyue Wang is a first-year master student major in computer architecture, advi
 
   biosite_venue = {32nd International Conference on Field Programmable Logic and Application (FPL 2022)},
   biosite_url = {https://2022.fpl.org/agenda/},
-  biosite_paper = {./assets/artifacts/papers/2022_fpl.pdf}
+  biosite_paper = {https://doi.org/10.1109/FPL57034.2022.00087}
 }
 
 @online{carrv2022,
